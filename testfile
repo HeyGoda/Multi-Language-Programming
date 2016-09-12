@@ -1,0 +1,5 @@
+//操作系统、编译环境的公共头文件路径 
+-I"%L57_C9_ROOT%\tools\PC\LT\common_headers\cygwin\usr\ext\libxml" 
+-I"%L57_C9_ROOT%\tools\PC\LT\common_headers\cygwin\usr\ext\linux" 
+-I"%L57_C9_ROOT%\tools\PC\LT\common_headers\cygwin\usr\ext" 
+-I"%L57_C9_ROOT%\tools\PC\LT\common_headers\cygwin\usr\ext\evms" 
